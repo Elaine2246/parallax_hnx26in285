@@ -66,7 +66,7 @@ Generated Answer
      ↓
 Page-Level Sources
 
-<img width="953" height="501" alt="Screenshot 2026-10-07 160334" src="https://github.com/user-attachments/assets/5cc85254-67f4-4a0e-bd38-aca7d996154c"/>
+
 
 
 

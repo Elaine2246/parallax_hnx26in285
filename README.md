@@ -65,3 +65,10 @@ Google Gemini
 Generated Answer
      ↓
 Page-Level Sources
+
+
+<img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/3bc28dda-e03c-42b8-b351-30217e21b79a" />
+
+
+<img width="955" height="496" alt="image" src="https://github.com/user-attachments/assets/9a9c1947-cfa6-4fdd-b581-5ab38a709960" />
+

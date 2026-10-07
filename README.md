@@ -67,8 +67,9 @@ Generated Answer
 Page-Level Sources
 
 
-<img width="953" height="501" alt="image" src="https://github.com/user-attachments/assets/3bc28dda-e03c-42b8-b351-30217e21b79a" />
+<img width="953" height="501" alt="Screenshot 2026-10-07 160334" src="https://github.com/user-attachments/assets/5cc85254-67f4-4a0e-bd38-aca7d996154c" />
 
 
-<img width="955" height="496" alt="image" src="https://github.com/user-attachments/assets/9a9c1947-cfa6-4fdd-b581-5ab38a709960" />
+
+
 
